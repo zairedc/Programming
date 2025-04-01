@@ -28,7 +28,7 @@ int main() {
     } else if (a == "FIRMWARE") {
         cout << "A type of software permanently stored in hardware devices." << endl;
     } else if (a == "HARD DISK DRIVE") {
-        cout << "A traditional storage device that uses magnetic disks." << endl;
+        cout << "A traditional storage device that uses magnetic disks.";
     } else if (a == "JAVA") {
         cout << "A popular programming language.";
     }
